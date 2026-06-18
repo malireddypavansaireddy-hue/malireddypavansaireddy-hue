@@ -1,106 +1,112 @@
-<!-- SECTION G: Visitor Counter -->
+<!-- Visitor Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=malireddypavansaireddy-hue&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-<!-- SECTION A: Animated Header -->
+<!-- Animated Header -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60" height="60">
-  <h1>Hey, I am Pavan Sai Reddy Malireddy!</h1>
+  <h1>Hi, I am Mali Reddy Pavan Sai Reddy!</h1>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;Content+Creator+%7C+YouTuber+%7C+Blogger+%F0%9F%8E%AC;Building+Things+That+Matter+%F0%9F%94%A5;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Data+Analyst+%F0%9F%93%8A;MS+in+Operations+Management+Information+Systems;Python+%7C+SQL+%7C+Tableau+%7C+Machine+Learning;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%9A%80;AWS+Certified+%7C+Northern+Illinois+University" alt="Typing SVG" />
 </div>
 
 ---
 
-<!-- SECTION B: About Me -->
+<!-- About Me -->
 ## About Me
 
-I am a passionate developer and content creator who loves building impactful digital experiences. I enjoy turning ideas into real-world products and teaching others how to do the same.
+I am an early-career Data Analyst and MS candidate in Operations Management Information Systems at Northern Illinois University. I specialize in turning raw data into insights using Python, SQL, statistical analysis, and Tableau. I have hands-on experience with machine learning (TensorFlow, PyTorch, clustering) and cloud platforms (AWS and Google Cloud).
 
-I share my journey across multiple platforms:
-- YouTube: in-depth tutorials, dev walkthroughs, and project builds
-- Medium: articles on tech, productivity, and software engineering
-- Instagram: behind-the-scenes, dev tips, and daily inspiration
+I am passionate about translating analytical findings into clear narratives for both technical and non-technical stakeholders.
 
-### Fun Facts About Me
-
-- I believe the best way to learn is by building and shipping real projects
-- I am obsessed with clean code, good design, and seamless user experiences
-- I love connecting with the dev community and collaborating on open-source
-- Coffee plus code equals my perfect morning (and evening and afternoon)
+- Currently pursuing MS in OMIS at Northern Illinois University (2024-2026)
+- B.E. in Computer Science and Engineering from RGMCET, India (2019-2023)
+- AWS Certified in Cloud Foundations and Machine Learning Foundations
+- Open to Data Analyst, Business Analyst, and ML/AI roles
 
 ---
 
-<!-- SECTION C: Tech Stack -->
+<!-- Tech Stack -->
 ## Tech Stack
 
-### Frontend
+### Languages
 
 <div align="center">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 </div>
 
-### Backend
+### Data, Analytics & Visualization
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+</div>
+
+### Machine Learning & AI
+
+<div align="center">
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+</div>
+
+### Databases & Cloud
+
+<div align="center">
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 </div>
 
-### Tools
+### Tools & Platforms
 
 <div align="center">
 
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
 ---
 
-<!-- SECTION D: Social Media Links -->
-## Connect and Follow
+<!-- Certifications -->
+## Certifications
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_URL)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](YOUR_MEDIUM_URL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+![AWS Cloud](https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS ML](https://img.shields.io/badge/AWS_Academy-ML_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Network_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
 
 </div>
 
 ---
 
-<!-- SECTION E: GitHub Stats -->
+<!-- GitHub Stats -->
 ## GitHub Stats
 
 <div align="center">
@@ -109,12 +115,12 @@ I share my journey across multiple platforms:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malireddypavansaireddy-hue&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malireddypavansaireddy-hue&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-<!-- SECTION F: GitHub Trophies -->
+<!-- GitHub Trophies -->
 ## GitHub Trophies
 
 <div align="center">
@@ -123,22 +129,24 @@ I share my journey across multiple platforms:
 
 ---
 
-<!-- SECTION H: Footer -->
-## Let's Connect
-
-I am always open to interesting conversations, collaboration opportunities, and new ideas. Whether you want to discuss tech, content creation, or just say hi, feel free to reach out!
+<!-- Social / Contact -->
+## Connect With Me
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-malireddypavansaireddy%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malireddypavansaireddy@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_URL)
 [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](YOUR_MEDIUM_URL)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 </div>
 
+---
+
 <div align="center">
-  <h3>Building the future, one commit at a time.</h3>
-  <p>If you found value here, drop a star and let's build something great together!</p>
+  <h3>Data tells a story. I help you read it.</h3>
+  <p>Open to opportunities in Data Analytics, Business Intelligence, and Machine Learning.</p>
   <img src="https://komarev.com/ghpvc/?username=malireddypavansaireddy-hue&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
