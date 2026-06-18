@@ -134,12 +134,12 @@ I am passionate about translating analytical findings into clear narratives for 
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://malireddypavansaireddy-hue.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Gmail](https://img.shields.io/badge/Gmail-malireddypavansaireddy%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malireddypavansaireddy@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_URL)
 [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](YOUR_MEDIUM_URL)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 </div>
 
