@@ -174,4 +174,22 @@ Built with passion for data storytelling and one of my favorite shows!
 | 📈 Viz Type | Episode Votes Analysis |
 | 🌐 Platform | Tableau Public |
 
+---
+
+### 📄 Pavan Sai Reddy Mali Reddy — Resume Visualization
+
+[![Resume Visualization Dashboard](https://public.tableau.com/static/images/As/Assignment4pavanDashborad/PavanSaiReddyMaliReddy/1.png)](https://public.tableau.com/app/profile/pavan.sai.reddy.mali.reddy/viz/Assignment4pavanDashborad/PavanSaiReddyMaliReddy)
+
+**🔗 [View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/pavan.sai.reddy.mali.reddy/viz/Assignment4pavanDashborad/PavanSaiReddyMaliReddy)**
+
+An interactive Tableau dashboard showcasing my **resume as a data visualization** — featuring Experience timeline, Skills ratings, GeoMap of places worked, and Certifications.
+Built to present professional data in a visually engaging and insightful way!
+
+| Detail | Info |
+|--------|------|
+| 🛠️ Tool | Tableau Public |
+| 📋 Type | Resume Visualization |
+| 🎓 Context | Assignment 4 — Data Visualization |
+| 🌐 Platform | Tableau Public |
+
 </div>
