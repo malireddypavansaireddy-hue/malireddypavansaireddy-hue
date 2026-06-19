@@ -149,3 +149,29 @@ I'm always open to exciting collaborations, data-driven projects, and meaningful
 **⭐ If you find my work useful, don't forget to star my repositories!**
 
 </div>
+
+
+---
+
+<!-- SECTION I: TABLEAU PROJECTS -->
+## 📊 Tableau Projects
+
+<div align="center">
+
+### ⚡ The Flash (2014) — Episode Votes Dashboard
+
+[![The Flash Tableau Dashboard](https://public.tableau.com/static/images/My/My_Fav/TheFlash/1.png)](https://public.tableau.com/app/profile/pavan.sai.reddy.mali.reddy/viz/My_Fav/TheFlash)
+
+**🔗 [View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/pavan.sai.reddy.mali.reddy/viz/My_Fav/TheFlash)**
+
+An interactive Tableau dashboard visualizing episode votes for **The Flash (2014)** TV series.
+Built with passion for data storytelling and one of my favorite shows!
+
+| Detail | Info |
+|--------|------|
+| 🛠️ Tool | Tableau Public |
+| 📺 Show | The Flash (2014) |
+| 📈 Viz Type | Episode Votes Analysis |
+| 🌐 Platform | Tableau Public |
+
+</div>
